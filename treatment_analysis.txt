@@ -1,0 +1,3 @@
+1) Capomulin was the only drug that led to a decrease (19% reduction) in tumor volume. Additionally, mice who received Capomulin had the highest survival rate.
+2) Ketapril had a similar effect as the placebo drug on tumor volume.
+3) All treatments resulted in an increase in metastatic sites, and those metastatic sites increased dramatically in the last five days of treatment. While Capomulin may be effective in reducing the growth of tumors, it does not have the same reduction effect on the number of metastatic sites.
